@@ -7,8 +7,8 @@
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-  <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/collie-jun?pet-id=3" width="1000" height="120"/>
+ <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/collie-jun" width="1000" height="300"/>
 </a>
   
 
