@@ -1,10 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=100&section=header" />
 
 # 안녕하세요! 프론트엔드 개발자 전연주입니다
 
 저는 프론트엔드 개발자로서, 사용자 경험을 최우선으로 생각하며 효율적이고 직관적인 UI를 만드는 것을 목표로 하고 있습니다. 🖥️
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
 ---
 
@@ -35,6 +33,11 @@
 </div>
 
 
+---
+<div style="display:flex;gap:10px;">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=collie-jun)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=collie-jun)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 ---
 
 ## 🌱 최근 관심사
