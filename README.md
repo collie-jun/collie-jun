@@ -23,12 +23,12 @@
 - **뭐먹으카**: 제주도 착한식당을 검색할 수 있는 서비스입니다.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="./assets/travel-day.png" alt="여행한DAY" width="500"/>
-  <img src="./assets/Eodeure.png" alt="어드레" width="500"/>
+  <img src="./assets/travel-day.png" alt="여행한DAY" width="45%"/>
+  <img src="./assets/Eodeure.png" alt="어드레" width="45%"/>
 </div>
 <div style="display: flex; justify-content: space-between;">
-  <img src="./assets/CollieLand.png" alt="CollieLand" width="500"/>
-  <img src="./assets/meogeulkka.png" alt="뭐먹으카" width="500"/>
+  <img src="./assets/CollieLand.png" alt="CollieLand" width="45%"/>
+  <img src="./assets/meogeulkka.png" alt="뭐먹으카" width="45%"/>
 </div>
 
 
