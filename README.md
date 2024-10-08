@@ -20,8 +20,11 @@
 - **여행한DAY**: 여행 일정을 관리하고, 친구들과 실시간 채팅 및 비용 정산을 할 수 있는 서비스입니다.
 - **CollieLand**: 보더 콜리 정보를 공유하는 커뮤니티 사이트입니다.
 
-![여행한DAY](./assets/travel-day.png)
-![어드레](./assets/Eodeure.png)
+<div style="display: flex; justify-content: space-between;">
+  <img src="./assets/travel-day.png" alt="여행한DAY" width="300"/>
+  <img src="./assets/Eodeure.png" alt="어드레" width="300"/>
+</div>
+
 
 ---
 
