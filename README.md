@@ -1,7 +1,10 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 # 안녕하세요! 프론트엔드 개발자 전연주입니다
 
 저는 프론트엔드 개발자로서, 사용자 경험을 최우선으로 생각하며 효율적이고 직관적인 UI를 만드는 것을 목표로 하고 있습니다. 🖥️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
 ---
 
