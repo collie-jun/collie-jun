@@ -42,8 +42,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=collie-jun" />
+     <a href="https://github.com/devxb/gitanimals">
+      <img src="https://render.gitanimals.org/farms/collie-jun"/>
       </a>
     </td>
   </tr>
@@ -61,10 +61,6 @@
 - **Email**: duswn700437@gmail.com
 - **GitHub**: [github.com/collie-jun](https://github.com/collie-jun)
 
-
-
- <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/collie-jun" width="1000" height="300"/>
 </a>
   
 
