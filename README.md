@@ -34,10 +34,21 @@
 
 
 ---
-<div style="display:flex;gap:10px;">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=collie-jun)](https://github.com/anuraghazra/github-readme-stats)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=collie-jun)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=collie-jun" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=collie-jun" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🌱 최근 관심사
