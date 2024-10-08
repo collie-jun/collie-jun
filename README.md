@@ -21,8 +21,8 @@
 - **CollieLand**: 보더 콜리 정보를 공유하는 커뮤니티 사이트입니다.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="./assets/travel-day.png" alt="여행한DAY" width="300"/>
-  <img src="./assets/Eodeure.png" alt="어드레" width="300"/>
+  <img src="./assets/travel-day.png" alt="여행한DAY" width="500"/>
+  <img src="./assets/Eodeure.png" alt="어드레" width="500"/>
 </div>
 
 
