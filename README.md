@@ -24,6 +24,10 @@
   <img src="./assets/travel-day.png" alt="여행한DAY" width="500"/>
   <img src="./assets/Eodeure.png" alt="어드레" width="500"/>
 </div>
+<div style="display: flex; justify-content: space-between;">
+  <img src="./assets/CollieLand.png" alt="CollieLand" width="500"/>
+  <img src="./assets/meogeulkka.png" alt="어드레" width="500"/>
+</div>
 
 
 ---
