@@ -29,7 +29,7 @@
 ---
 
 ## 📫 연락처
-- **Email**: collie.dev@example.com
+- **Email**: duswn700437@gmail.com
 - **GitHub**: [github.com/collie-dev](https://github.com/collie-dev)
 
 ---
