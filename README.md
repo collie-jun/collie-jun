@@ -26,18 +26,18 @@
 <table>
   <tr>
     <td>
-      <img src="./assets/travel-day.png" alt="여행한DAY" width="300px"/>
+      <img src="./assets/travel-day.png" alt="여행한DAY" width="45%"/>
     </td>
     <td>
-      <img src="./assets/Eodeure.png" alt="어드레" width="300px"/>
+      <img src="./assets/Eodeure.png" alt="어드레" width="45%"/>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="./assets/CollieLand.png" alt="CollieLand" width="300px"/>
+      <img src="./assets/CollieLand.png" alt="CollieLand" width="45%"/>
     </td>
     <td>
-      <img src="./assets/meogeulkka.png" alt="뭐먹으카" width="300px"/>
+      <img src="./assets/meogeulkka.png" alt="뭐먹으카" width="45%"/>
     </td>
   </tr>
 </table>
