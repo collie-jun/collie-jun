@@ -18,7 +18,9 @@
 
 ## 📈 프로젝트
 - **여행한DAY**: 여행 일정을 관리하고, 친구들과 실시간 채팅 및 비용 정산을 할 수 있는 서비스입니다.
-- **CollieLand**: 보더 콜리 정보를 공유하는 커뮤니티 사이트입니다.
+- **어드레**: 음성 리뷰작성 및 검색 서비스입니다.
+- **CollieLand**: 보더 콜리 정보를 공유하는 커뮤니티 서비스입니다.
+- **뭐먹으카**: 제주도 착한식당을 검색할 수 있는 서비스입니다.
 
 <div style="display: flex; justify-content: space-between;">
   <img src="./assets/travel-day.png" alt="여행한DAY" width="500"/>
@@ -26,7 +28,7 @@
 </div>
 <div style="display: flex; justify-content: space-between;">
   <img src="./assets/CollieLand.png" alt="CollieLand" width="500"/>
-  <img src="./assets/meogeulkka.png" alt="어드레" width="500"/>
+  <img src="./assets/meogeulkka.png" alt="뭐먹으카" width="500"/>
 </div>
 
 
