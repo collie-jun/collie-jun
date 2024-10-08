@@ -30,15 +30,12 @@
 
 ## 📫 연락처
 - **Email**: duswn700437@gmail.com
-- **GitHub**: [github.com/collie-dev](https://github.com/collie-dev)
+- **GitHub**: [github.com/collie-jun](https://github.com/collie-jun)
 
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=collie-dev&show_icons=true&theme=radical)
 
-
-<div style="display:flex;gap:30px;flex-wrap:wrap;">
-  <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
  <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/collie-jun" width="1000" height="300"/>
